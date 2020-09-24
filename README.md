@@ -1,3 +1,4 @@
 # CovidPal
 
-install git https://git-scm.com/
+install Git https://git-scm.com/
+install CocoaPods $ sudo gem install cocoapods
