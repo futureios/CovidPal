@@ -1,6 +1,0 @@
-framework module Pods_CovidPal_CovidPalUITests {
-  umbrella header "Pods-CovidPal-CovidPalUITests-umbrella.h"
-
-  export *
-  module * { export * }
-}
